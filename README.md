@@ -1,2 +1,2 @@
 # WebApiRestful
-Treinando Algumas regras do Object Calisthenics
+Treinando algumas regras do Object Calisthenics
